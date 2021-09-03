@@ -8,12 +8,13 @@ First, install `virtualenv` with `pip3` in order to configure an isolated Python
 `pip3 install virtualenv`
 
 Next, you need to create a directory to contain your virtual environments and then create one for this project:
+```
+~$ mkdir virtualenvs
 
-`~$ mkdir virtualenvs`
+~$ cd virtualenvs
 
-`~$ cd virtualenvs`
-
-`~/virtualenvs$ virtualenv sist_control_tuar`
+~/virtualenvs$ virtualenv sist_control_tuar
+```
 
 Now, the virtual environment needs to be activated:
 
