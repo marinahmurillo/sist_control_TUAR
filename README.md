@@ -42,3 +42,4 @@ Now running `python` will just use the system’s default Python interpreter, wh
 
 To delete a virtual environment, just delete the corresponding folder. (In this case, it would be `rm -r sist_control_tuar`).
 
+This Readme file was build with the help of [Guido Sánchez](https://github.com/gmsanchez).
